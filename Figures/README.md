@@ -24,6 +24,10 @@ BarPlot has your categorical variables on one axis and the other one on your y a
 BarPlot has your categorical variables on one axis and the other one on your y axis. Then it generates a plot with color codes indicating the values of those two axis . . . 
 ![Density10x6](https://github.com/snpoudel/CoastalUS_SocioHydroModel/assets/71980576/31ef8825-6bf7-4128-ab74-ecbee38d16ca)
 
-## 6. Line Plot Density Surge
+## 7. Line Plot Density Surge
 BarPlot has your categorical variables on one axis and the other one on your y axis. Then it generates a plot with color codes indicating the values of those two axis . . . 
 ![DensityByStates_MultiThreshold](https://github.com/snpoudel/CoastalUS_SocioHydroModel/assets/71980576/dbc99103-8236-4fb7-85b1-9bbb0978e531)
+
+## 8. Correlation Plot with Monte Carlo Sampling
+BarPlot has your categorical variables on one axis and the other one on your y axis. Then it generates a plot with color codes indicating the values of those two axis . . . 
+![pvalue_alpha_a](https://github.com/snpoudel/CoastalUS_SocioHydroModel/assets/71980576/761a9b6b-5a78-46f1-b58b-ee1d87484a34)
