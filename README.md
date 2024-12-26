@@ -10,6 +10,9 @@ This repo contains the following files:
 
 * Projection_HPC.R                   This script reads in climate projection datasets and forecasts SH variables using SocioHydroModel_forProjection.R
 
+Related Publication:
+
+* Poudel, S., Elliott, R., Anyah, R., Grabowski, Z., & Knighton, J. (2024). Differential flood insurance participation and housing market trajectories under future coastal flooding in the United States. Communications Earth & Environment, 5(1), 668.
 
 References:
 
